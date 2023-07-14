@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.myzum.BackendJava.dto.GameMinDTO;
-import com.myzum.BackendJava.entities.Game;
 import com.myzum.BackendJava.services.GameService;
 
 @RestController
